@@ -1,0 +1,17 @@
+
+/*
+.btn {
+    border: 1px solid #2dac36;
+    background: #2dac36;
+}
+
+.swag-line:before {
+    background-color: #2dac36;
+    background: -webkit-linear-gradient(45deg, #2dac36, #1d7723);
+    background: linear-gradient(45deg, #2dac36, #1d7723);
+}
+*/
+
+.jumbo-list-item {
+    border-bottom: none;
+}
